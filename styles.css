@@ -1,0 +1,32 @@
+body {
+    margin: 0;
+    font-family:sans-serif;
+    /* margin-top: -16px; */
+}
+
+header, footer {
+    background-color: #1F2937;
+    
+}
+
+.hero-main-text {
+    font-size: 48px;
+    font-weight: bolder;
+    color: #F9FAF8;
+}
+
+.hero-second-text, .header-link {
+    font-size: 18px;
+    color: #E5E6EB;
+    text-decoration: none;
+}
+
+li {
+    list-style-type: none;
+}
+
+.header-logo {
+    font-size: 24px;
+    color: #F9FAF8;
+}
+
