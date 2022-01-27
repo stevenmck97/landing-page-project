@@ -4,6 +4,8 @@ body {
     /* margin-top: -16px; */
 }
 
+/* Header section */
+
 header, footer {
     background-color: #1F2937;
     
@@ -28,5 +30,32 @@ li {
 .header-logo {
     font-size: 24px;
     color: #F9FAF8;
+}
+
+.header-button {
+    background-color: #3882F6;
+}
+
+/* Second Container */
+.info-text {
+    font-size: 36px;
+    font-weight: bolder;
+    color: #1F2937;
+}
+
+/* Third Container */
+.third-container {
+    background-color: #E5E7EB;
+}
+
+.quote-text {
+    font-size: 36px;
+    font-style: italic;
+    font-weight: lighter;
+    color: #1F2937;
+}
+
+.quote-author {
+    font-weight: bold;
 }
 
