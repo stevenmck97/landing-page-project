@@ -113,6 +113,13 @@ body {
 .item-container {
     display: flex;
     margin: 0 18em 6em 18em;
+    align-items: center;
+    justify-content: center;
+}
+
+.idea-gif {
+    width: 14em;
+    height: 14em;
 }
 
 /* Third Container */
