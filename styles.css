@@ -34,29 +34,19 @@ body {
 }
 
 .nav-logo{
-    padding-left: 18em;
+    padding-left: 26em;
 }
 
 .nav-links {
-    padding-right: 18em;
+    padding-right: 29em;
 }
 
-/* .nav-logo, .nav-links{
+/* Hero section */
+
+.hero {
     display: flex;
     justify-content: center;
-} */
-
-/* .nav-links {
-    justify-content: flex-end;
-} */
-
-/* .header-logo {
-    display: flex;
-    justify-content: flex-end
-} */
-
-ul {
-    display: flex;
+    align-items: center;
     
 }
 
@@ -64,6 +54,7 @@ ul {
     font-size: 48px;
     font-weight: bolder;
     color: #F9FAF8;
+    margin: 2em 0 0 0;
 }
 
 .hero-second-text, .header-link {
@@ -72,9 +63,21 @@ ul {
     text-decoration: none;
 }
 
-/* li {
-    list-style-type: none;
-} */
+.hero-second-text {
+    margin: 8px 0 8px 0;
+}
+
+.hero-texts {
+    margin: 0 0 8em 0;
+    padding: 6em;
+    width: 22em;
+}
+
+.hero-img {
+    display: flex;
+    margin: 7em;
+    box-shadow: 6px 2px 20px 10px black;
+}
 
 .header-logo {
     font-size: 24px;
@@ -83,11 +86,18 @@ ul {
 
 .header-button {
     background-color: #3882F6;
+    font-size: 18px;
+    color: white;
+    padding: 8px 16px 8px 16px;
+    border-radius: 8px;
+    border: none;
+    margin: 4px 0;
 }
 
 .header-img {
-    height: 16em;
-    width: 30em;
+    height: 19em;
+    width: 34em;
+    
 }
 
 /* Second Container */
