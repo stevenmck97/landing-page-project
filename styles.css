@@ -191,3 +191,13 @@ body {
     border: white solid 2px;
     margin: 0 10em 0 0;
 }
+
+/* Footer  */
+
+footer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 2em 0 2em 0;
+    color: white;
+}
